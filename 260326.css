@@ -9,7 +9,8 @@ body {
 .wrapper {
     max-width: 400px;
     margin: 0 auto;
-    text-align: center;
+    /* text-align: center; */
+	text-align: left;
 /*     background: #cccccc; */
   }
   .txt {
