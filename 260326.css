@@ -1,4 +1,18 @@
-body{
-  text-align: center;
-  /* background-color: ; */
+
+body {
+	text-aline: center;
+	margin-bottom: 100px;
+        background-color:#ffdbc9;
+        color: #8b4513;
 }
+
+.wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: center;
+/*     background: #cccccc; */
+  }
+  .txt {
+    display: inline-block;
+    text-align: left;
+  }
